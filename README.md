@@ -1,1 +1,2 @@
-# AI_FinTech_HW6
+## AI_FinTech_HW6
+### image processing
