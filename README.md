@@ -1,2 +1,2 @@
 ## AI_FinTech_HW6
-### image processing
+### concept: image processing
